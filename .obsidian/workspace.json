@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OPEN ME.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OPEN ME.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OPEN ME.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OPEN ME.md"
+                "file": "README.md"
               }
             }
           }
@@ -136,9 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b61603def1bc9ae",
+  "active": "9dfcc31e4f311306",
   "lastOpenFiles": [
-    "Where's the button??.jpeg",
-    "OPEN ME.md"
+    "attachments/Where's the button??.jpeg",
+    "README.md"
   ]
 }
