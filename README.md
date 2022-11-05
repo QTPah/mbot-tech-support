@@ -32,13 +32,13 @@ Solutions:
 #### Lets simonify (clean) the code!
 
 This is a common peace of code. It's not good. Let's make it good.
-![bad](bad2.png) First off, we don't need to declare variables (and constantly update them) if we only use them once.
-![bad](bad.png) 
+![bad](attachments/bad2.png) First off, we don't need to declare variables (and constantly update them) if we only use them once.
+![bad](attachments/bad.png) 
 Next, we don't want to type such a long block every time, so we put it in a function.
 ![better](attachments/better.png) Another habit i see too often is putting everything in a forever loop. It may work at first, but it can get really nasty to deal with when having bigger code.
 Having everything in a forever loop makes your code event based, which is more appropriate when coding with user interfaces like bluetooth controllers. In this case, we want a more script like code. Every if statement in the forever loop can be replaced with these blocks: 
 ![wait](attachments/waituntil.png)![repeat](/attachments/repeatuntil.png)
 This is what the simonified code should look like:
-![perfect](perfect.png)
+![perfect](attachments/perfect.png)
 
 
