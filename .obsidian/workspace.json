@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "a5b9c5b4ada0c77c",
+    "type": "split",
+    "children": [
+      {
+        "id": "174dcaad78bdc29a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b61603def1bc9ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OPEN ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca8b49c1d69f6e33",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc3a39663300c992",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dfcc31e4f311306",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8aeeb5d8d2adb9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ba1a19575d28ce9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73996ca8449303e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "347997bac8a4459d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab432c197e8f6e30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OPEN ME.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5410f523839878d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OPEN ME.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79434a7482b45655",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b734f641c7232a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OPEN ME.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2b61603def1bc9ae",
+  "lastOpenFiles": [
+    "Where's the button??.jpeg",
+    "OPEN ME.md"
+  ]
+}
